@@ -1,4 +1,4 @@
-# PBDpars
+# PDBpars
 this tool extract the raw PBD path from EXE and DLL files 
 two simple roles can be added:
   1. check for non-ascii characters (-s)
